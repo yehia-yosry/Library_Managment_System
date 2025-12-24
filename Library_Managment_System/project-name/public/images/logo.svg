@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40" fill="none">
+  <rect width="160" height="40" fill="#0B0B0B" rx="6"/>
+  <g transform="translate(10,6)">
+    <circle cx="10" cy="10" r="8" fill="#B30000" />
+    <text x="30" y="15" fill="#FFFFFF" font-family="Merriweather, serif" font-size="14">Bookstore</text>
+  </g>
+</svg>
